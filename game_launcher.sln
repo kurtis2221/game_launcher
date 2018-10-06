@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "game_launcher", "game_launcher\game_launcher.csproj", "{C5EFAC6E-4DAE-40CB-864E-D004119D527D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5EFAC6E-4DAE-40CB-864E-D004119D527D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5EFAC6E-4DAE-40CB-864E-D004119D527D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5EFAC6E-4DAE-40CB-864E-D004119D527D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5EFAC6E-4DAE-40CB-864E-D004119D527D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
